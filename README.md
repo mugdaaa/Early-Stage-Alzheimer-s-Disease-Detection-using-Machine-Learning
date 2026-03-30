@@ -1,0 +1,2 @@
+# Early-Stage-Alzheimer-s-Disease-Detection-using-Machine-Learning
+Early-Stage Alzheimer’s Disease Detection using Machine Learning uses patient symptoms, cognitive scores, and medical data to identify early signs of Alzheimer’s before severe brain damage occurs. Machine learning models analyze patterns in the data to assist doctors in faster diagnosis, enabling early treatment and better disease management.
